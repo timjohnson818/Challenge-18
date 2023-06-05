@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "Challenge-18",
     "main": "server.js",
-    "license": "Apache",
+    "license": "MIT",
     "scripts": {
       "start": "node server.js"
     },
