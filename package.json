@@ -1,0 +1,15 @@
+{
+    "name": "Challenge-18",
+    "version": "1.0.1",
+    "description": "my version of facebook",
+    "main": "server.js",
+    "license": "Apache",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.9.2"
+    }
+  }
+  
