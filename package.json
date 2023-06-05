@@ -1,7 +1,7 @@
 {
     "name": "Challenge-18",
     "version": "1.0.1",
-    "description": "my version of facebook",
+    "description": "Challenge-18",
     "main": "server.js",
     "license": "Apache",
     "scripts": {
